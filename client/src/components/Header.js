@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Header extends Component {
   render() {
     return (
-      <div className="container">
+      <div>
         <nav>
           <div className="nav-wrapper">
             <a href="#" className="brand-logo left">
